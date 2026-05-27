@@ -1,6 +1,6 @@
 import React from "react";
 import { User, Briefcase, BookOpen } from "lucide-react";
-import ProfilePic from "./assets/about.jpeg";
+import ProfilePic from "./Assets/about.jpeg";
 
 const About = () => {
   return (
